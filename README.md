@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @naviniitk
+- 👋 Hi, I’m Naveen Kumar
 - 👀 I’m interested in Astronomy, Machine Learning and Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Kotlin,
+- 💞️ I’m looking to collaborate on Astronomy related projects, also some thing along the lines of image processing
 - 📫 How to reach me ...
 
 <!---
