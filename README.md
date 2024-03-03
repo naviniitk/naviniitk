@@ -6,8 +6,8 @@ Full Stack Developer
 
 * 🌍  I'm based in Rajasthan, India
 * ✉️  You can contact me at [navin10102001@gmail.com](mailto:navin10102001@gmail.com)
-* 🚀  I'm currently working on [Pinch Operations](http://app.thepinchlife.com/)
-* 🧠  I'm learning Rust
+* 🚀  I'm currently working on Nesh
+* 🧠  I'm learning React Native Animations
 * 🤝  I'm open to collaborating on All the frontend (I love frontend)
 
 ### Skills
