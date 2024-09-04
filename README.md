@@ -12,7 +12,7 @@ Full Stack Developer
 
 ### Skills
 
-# Bring Anything
+### **Bring Anything**
 
 
 ### Socials
